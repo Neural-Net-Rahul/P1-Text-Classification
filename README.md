@@ -1,4 +1,4 @@
-# P1-Text-Classification
+# P1-Genre-Classification
 In this we have to predict the genre of different movies based on their short story.
 
 Dataset - https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
